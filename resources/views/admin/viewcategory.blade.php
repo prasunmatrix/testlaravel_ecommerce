@@ -9,7 +9,8 @@
           </div>
           <div class="col-10">
             <!-- /.card -->
-            <div style="margin-left: 1046px;">
+            <!-- <div style="margin-left: 1046px;"> -->
+            <div style="margin-left: 830px;">  
               <a href="{{ route('add.form.category') }}"><button type="button" class="btn btn-block btn-warning" style="font-weight: bold;">Add Category</button></a>
             </div>
             <hr>
